@@ -1,8 +1,12 @@
-var image = new Image();
- 
-image.onload = function()
-{
-   document.getElementById("logo").src = image.src;
-}
-console.log("Salut toi qui inspecte !")
-image.src = image.src = "https://i.tween.pics/v1/https://s3-eu-west-1.amazonaws.com/assets.atout-on-line.com/images/ingenieur/2016/logos_ecoles/exia_cesi_360.jpg";
+const observer = new MutationObserver(function(mutations) {
+    for(let mutation of mutations){
+       for(let element of mutation.addedNodes)
+          if(element.id === "logo")
+             element.src = chrome.runtime.getURL("icon/logo-cesi-exia.png");
+    }
+});
+
+observer.observe(document, {
+    subtree: true,
+    childList: true
+});
