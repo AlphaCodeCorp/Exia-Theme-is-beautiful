@@ -12,7 +12,8 @@ observer.observe(document, {
 });
 
 document.addEventListener("click", function (event) {
-    event.stopPropagation();
+    if(event.target.parentNode.parentElement.classList.contains('activityinstance'))
+        event.stopPropagation();
 }, true);
 
 document.addEventListener("DOMContentLoaded", function() {
