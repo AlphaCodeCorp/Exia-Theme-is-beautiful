@@ -10,3 +10,17 @@ observer.observe(document, {
     subtree: true,
     childList: true
 });
+
+document.addEventListener("click", function (event) {
+    event.stopPropagation();
+}, true);
+
+document.addEventListener("DOMContentLoaded", function() {
+    const modules = document.querySelectorAll('li[id^="module-"]');
+    for(const module of modules){
+        const links = module.querySelectorAll('a');
+        for(const link of links){
+            link.href += "&redirect=1";
+        }
+    }
+});
