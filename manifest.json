@@ -12,7 +12,8 @@
         "content.js"
       ],
       "matches": [
-        "*://moodle-exia.cesi.fr/*"
+        "*://moodle-exia.cesi.fr/*",
+        "*://moodle-examens.cesi.fr/*"
       ],
       "run_at": "document_start"
     }
