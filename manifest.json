@@ -8,7 +8,7 @@
     "content_scripts": [{
       "css": ["styles.css"],
       "js": ["content.js"],
-      "matches": ["https://moodle-exia.cesi.fr/*"]
+      "matches": ["https://moodle-ingenieurs.cesi.fr/*"]
     }],
 
     "web_accessible_resources": [
