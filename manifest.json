@@ -1,27 +1,18 @@
 {
-  "manifest_version": 2,
-  "name": "Exia Theme is beautiful",
-  "version": "1.0",
-  "description": "Moodle Extension Exia Theme",
-  "content_scripts": [
-    {
-      "css": [
-        "styles.css"
-      ],
-      "js": [
-        "content.js"
-      ],
-      "matches": [
-        "*://moodle-exia.cesi.fr/*",
-        "*://moodle-examens.cesi.fr/*"
-      ],
-      "run_at": "document_start"
-    }
-  ],
-  "icons": {
-    "48": "icon/icon_48.png"
-  },
-  "web_accessible_resources": [
-    "icon/logo-cesi-exia.png"
-  ]
-}
+    "manifest_version": 2,
+   
+    "name": "Exia Theme is beautiful",
+    "version": "1.0",
+    "description": "Moodle Extension Exia Theme",
+    
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://moodle-ingenieurs.cesi.fr/*"]
+    }],
+
+    "web_accessible_resources": [
+        "icon/*.png"
+    ]
+   
+  }
