@@ -60,10 +60,19 @@ a:hover {
     color: #FA1E1E !important;
 }
 
+/* a Active */
+a:active {
+    background-color: lightgrey !important;
+}
+
 /* button dashboard  */
 .btn-default.active {
     background: #C41818 !important;
     color: white !important;
+}
+
+.btn-secondary, .btn-outline-secondary {
+    color: #efefef !important;
 }
 
 .btn-default, a.btn-default .btn-default.active, .btn-default:active .open > .dropdown-toggle.btn-default {
