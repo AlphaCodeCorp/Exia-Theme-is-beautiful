@@ -1,98 +1,95 @@
-a
-{ 
-    color: #C41818!important;
+a {
+    color: #C41818 !important;
 }
 
-.nav>li>a {
-    color: whitesmoke!important;
+.login a {
+    color: rgba(255, 255, 255, .8)!important;
+}
+
+.nav > li > a {
+    color: whitesmoke !important;
 }
 
 .main-nav {
-    background-color: #BB1717!important;
-}
-.top-bar {
-    background-color: #BB1717!important;
+    background-color: #BB1717 !important;
 }
 
+.top-bar {
+    background-color: #BB1717 !important;
+}
 
 #page #region-main .coursebox {
-    border-left: 2px solid #ae1515!important;
+    border-left: 2px solid #ae1515 !important;
 }
 
 /* Buttons */
 .path-admin .buttons input[type=submit], button, input#id_submitbutton, input#id_submitbutton2, input.form-submit, input[type=submit], input[type=button], input[type=reset], td.submit input {
-    background-color: #ae1515!important;
-    border: 1px solid #ae1515!important;
+    background-color: #ae1515 !important;
+    border: 1px solid #ae1515 !important;
 }
 
 /* images displayer */
 .flexslider .flex-control-paging li a.flex-active {
-    background: #7B0F0F!important;
+    background: #7B0F0F !important;
 }
 
 .flexslider .flex-control-paging li:hover a {
-    background: #7B0F0F!important;
+    background: #7B0F0F !important;
 }
 
-
 /* Navigation menu opened */
-.main-nav .nav li.open a{
-    background: #941212!important;
-    background-color: #941212!important;
+.main-nav .nav li.open a {
+    background: #941212 !important;
+    background-color: #941212 !important;
 }
 
 .main-nav .nav li a:hover {
-    background: #941212!important;
-    background-color: #941212!important;
+    background: #941212 !important;
+    background-color: #941212 !important;
 }
 
 /* Submit Hover */
 input[type=submit]:hover {
-    background-color: #941212!important;
-    border: 1px solid #941212!important;
-    transition: 3s;    
-}
-
-/* a color */
-span.login>a {
-	color:	#efefef!important;
-    background-color: #BB1717!important;
+    background-color: #941212 !important;
+    border: 1px solid #941212 !important;
+    transition: 3s;
 }
 
 /* a Hover */
 a:hover {
-    color: #FA1E1E!important;
+    color: #FA1E1E !important;
 }
 
 /* button dashboard  */
 .btn-default.active {
-    background: #C41818!important;
-    color:white!important;
+    background: #C41818 !important;
+    color: white !important;
 }
 
-.btn-default, a.btn-default .btn-default.active, .btn-default:active .open>.dropdown-toggle.btn-default {
-    border-color: #C41818!important;
-    color: black!important;
+.btn-default, a.btn-default .btn-default.active, .btn-default:active .open > .dropdown-toggle.btn-default {
+    border-color: #C41818 !important;
+    color: black !important;
 }
 
 .btn-default:hover {
-    background: rgb(214, 43, 43)!important;
-    color: white!important;
+    background: rgb(214, 43, 43) !important;
+    color: white !important;
     transition: 1s;
 }
 
 /* Border */
-.nav-tabs>li.active a, .nav-tabs>li.active a:active, .nav-tabs>li.active a:focus, .nav-tabs>li.active a:hover {
-    border-top:  2px solid #ae1515!important;
+.nav-tabs > li.active a, .nav-tabs > li.active a:active, .nav-tabs > li.active a:focus, .nav-tabs > li.active a:hover {
+    border-top: 2px solid #ae1515 !important;
 }
 
 .main-nav .nav li .dropdown-menu a {
-    color: whitesmoke!important;
-    background-color: #BB1717!important;
-    border-bottom: 1px solid #7B0F0F!important;
+    color: whitesmoke !important;
+    background-color: #BB1717 !important;
+    border-bottom: 1px solid #7B0F0F !important;
 }
 
 #page .block-region .block .header .title h2 {
-    border-top: 2px solid #ae1515!important;
+    border-top: 2px solid #ae1515 !important;
 }
+
 
