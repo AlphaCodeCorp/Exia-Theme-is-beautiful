@@ -28,7 +28,7 @@ Veuillez lire [Contribution](CONTRIBUTING.md) pour plus d'information.
 
 ## Versioning
 
-Pour les versions disponibles, visitez [cette page](https://github.com/your/project/tags). 
+Pour les versions disponibles, visitez [cette page](https://github.com/Sacrezar/Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu/tags). 
 
 ## Auteurs
 
@@ -38,7 +38,7 @@ Pour les versions disponibles, visitez [cette page](https://github.com/your/proj
 * **Pierre** - *L'homme qui murmure à l'oreille des logo* - [Dronai]()
 * **Youssef** - *Fan de Gundam* - [IamClearlyJoking](https://github.com/IamClearlyJoking)
 
-Passez jeter un coup d'oeil à tout les [contributeurs](https://github.com/your/project/contributors) qui on participé au projet.
+Passez jeter un coup d'oeil à tout les [contributeurs](https://github.com/Sacrezar/Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu/contributors) qui on participé au projet.
 
 ## License
 
