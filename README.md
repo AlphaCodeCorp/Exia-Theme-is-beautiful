@@ -42,4 +42,4 @@ Passez jeter un coup d'oeil à tout les [contributeurs](https://github.com/Sacre
 
 ## License
 
-[LICENSE.md](LICENSE.md)
+[LICENSE.md](LICENSE)
