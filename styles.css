@@ -55,6 +55,38 @@ input[type=submit]:hover {
     transition: 3s;
 }
 
+/* Left Menu */
+.list-group-item    {
+    color: #333333 !important;
+}
+
+/* Left Menu */
+.list-group-item.active   {
+    background: #941212 !important;
+    color: white !important;
+    background-color: #941212 !important;
+}
+
+/* Branding */
+div.branding *  {
+    background-color: inherit !important;
+}
+
+div.branding * * * * span , #yui_3_17_2_1_1570014335507_757   {
+    background-color: black !important;
+    outline-color: white !important;
+}
+
+div.branding * * * * span:hover , #yui_3_17_2_1_1570014335507_757:hover   {
+    background-color: grey !important;
+    outline-color: white !important;
+}
+
+div.branding > div.container-fluid > div.branding-inner *  {
+    color: black !important;
+    border-color: white !important;
+}
+
 /* a Hover */
 a:hover {
     color: #FA1E1E !important;
@@ -62,7 +94,7 @@ a:hover {
 
 /* a Active */
 a:active {
-    background-color: lightgrey !important;
+    background-color: #FA1E1E !important;
 }
 
 /* button dashboard  */
