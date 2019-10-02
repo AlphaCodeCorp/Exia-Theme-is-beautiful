@@ -85,7 +85,6 @@ div.branding * * * * span:hover , #yui_3_17_2_1_1570014335507_757:hover   {
 div.branding > div.container-fluid > div.branding-inner *  {
     color: black !important;
     border-color: white !important;
-    background-color: black; !important;
 }
 
 /* a Hover */
