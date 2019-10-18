@@ -133,4 +133,19 @@ a:active {
     border-top: 2px solid #ae1515 !important;
 }
 
+/* Page de login (bouton de Selection) */
+.potentialidplist a {
+    color: #323232 !important;
+}
 
+.potentialidplist a:hover {
+    color: red !important;
+}
+
+.potentialidplist a span {
+    color: #f5f5f5 !important;
+}
+
+.potentialidplist a span:hover {
+    color: #f0f0f0 !important;
+}
