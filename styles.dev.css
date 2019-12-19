@@ -149,3 +149,7 @@ a:active {
 .potentialidplist a span:hover {
     color: #f0f0f0 !important;
 }
+
+.qn_buttons a {
+    color: grey !important;
+}
