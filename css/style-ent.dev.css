@@ -88,5 +88,14 @@ background: #BB1717!important;
 .choix_session__affichage {
     background: #BB1717;
 }
-  
-  
+
+.semestres .semestres__notes__titre > a::before {
+    font-family: "icomoon";
+    color: #BB1717;
+}
+
+.semestres .semestres__notes__document a::after {
+    font-family: "icomoon";
+    color: #FA1E1E;
+}
+
