@@ -1,18 +1,33 @@
 {
   "manifest_version": 2,
- 
   "name": "Exia Theme is beautiful",
   "version": "4.1.1",
+
   "description": "Moodle Extension Exia Theme",
   
-  "content_scripts": [{
-    "css": ["styles.css"],
-    "js": ["content.js"],
-    "matches": ["https://moodle-ingenieurs.cesi.fr/*",
-              "https://moodle-examens.cesi.fr/*"]
+  "content_scripts": 
+  [{
+    "css": ["css/style-moodle.css"],
+    "js": ["js/content-moodle.js"],
+    "matches": 
+    [
+      "https://moodle-ingenieurs.cesi.fr/*",
+      "https://moodle-examens.cesi.fr/*"
+    ]
+  },
+  {
+    "css":["css/style-ent.css"],
+    "js": ["js/content-ent.js"],
+    "matches": 
+    [
+      "https://wayf.cesi.fr/*",
+      "https://sts.viacesi.fr/*",
+      "https://ent.cesi.fr/*"
+    ]
   }],
 
-  "web_accessible_resources": [
+  "web_accessible_resources": 
+  [
       "icon/*.png"
   ]
  
