@@ -1,6 +1,23 @@
 .cas__contenu h2 {
     color: #BB1717;
 }
+
 .cas__contenu .appconnexion .submit {
     background: #ae1515;
+}
+
+input[type="submit"]:hover, span.submit:hover {
+    background: #7B0F0F;
+  }
+  
+span.submit, input[type="submit"] {
+background-color: #ae1515;
+}
+
+#introduction > li > a {
+    color: #BB1717;
+}
+
+#introduction > li > a:hover {
+    color: #FA1E1E;
 }
