@@ -98,4 +98,46 @@ background: #BB1717!important;
     font-family: "icomoon";
     color: #FA1E1E;
 }
+h2::after {
+    background: #FA1E1E;
+}
 
+.trombinoscope__information {
+    background: #FA1E1E;
+}
+
+
+.trombinoscope__carte__action ul li a:hover .icon, .trombinoscope__carte__action ul li a:focus .icon {
+    color: #FA1E1E;
+  }
+  
+
+.fc-title-header:hover, .fc-title-header:focus {
+    background-color: #BB1717;
+}
+
+.fc-state-hover, .fc-state-down, .fc-state-active, .fc-state-disabled {
+    background-color: #BB1717;
+}
+
+.fc-today .fc-day-header-date {
+    color: #FA1E1E;
+}
+
+.fc-today .fc-day-header-name {
+    color: #FA1E1E;
+}
+
+.fc-event {
+    border: 1px solid #BB1717;
+    background-color: #BB1717;
+}
+
+.fc-event:hover {
+    background-color: #7B0F0F;
+}
+
+.fc-title-header {
+    background-color: #BB1717;
+}
+  
