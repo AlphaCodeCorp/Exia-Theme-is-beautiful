@@ -1,9 +1,9 @@
 # Exia Theme is beautiful
+*Anciennement "Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu"*
 
 
->Thème Exia Moodle non officielle maintenu par des Exars 👌
-
-Anciennement "Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu"
+>Thème Exia Moodle non officiel maintenu par des Exars 👌
+Le thème concernait d'abord le site moodle. La version 5.0 devrait accueillir l'ent. 
 
 ## Révision
 
@@ -33,13 +33,13 @@ Pour les versions disponibles, visitez [cette page](https://github.com/Sacrezar/
 
 ## Auteurs
 
-* **Thomas** - *Grand maitre du repo* - [Sacrezar](https://github.com/Sacrezar)
+* **Thomas** - *Grand maître du repo* - [Sacrezar](https://github.com/Sacrezar)
 * **Romain** - *Pour la version firefox et le magnifique CSS* - [Lainkulte](https://github.com/Lainkulte)
 * **Louis** - *Créateur du code JS* - []()
-* **Pierre** - *L'homme qui murmure à l'oreille des logo* - [Dronai]()
+* **Pierre** - *L'homme qui murmure à l'oreille des logos* - [Dronai]()
 * **Youssef** - *Fan de Gundam* - [IamClearlyJoking](https://github.com/IamClearlyJoking)
 
-Passez jeter un coup d'oeil à tout les [contributeurs](https://github.com/Sacrezar/Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu/contributors) qui on participé au projet.
+Passez jeter un coup d'oeil à tous les [contributeurs](https://github.com/Sacrezar/Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu/contributors) qui on participé au projet.
 
 ## License
 
