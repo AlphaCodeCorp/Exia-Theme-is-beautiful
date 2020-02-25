@@ -151,4 +151,12 @@ h2::after {
 .bouton-switch-global .bouton-switch-input:checked ~ .bouton-switch.actif::before {
     background: black;
 }
-  
+
+.accordeon .accordeon__titre {
+    background: #BB1717;
+    border-color: #BB1717;
+}
+
+.paragraphe--2 {
+    background: #FA1E1E;
+}
