@@ -21,3 +21,72 @@ background-color: #ae1515;
 #introduction > li > a:hover {
     color: #FA1E1E;
 }
+
+#page {
+    background: whitesmoke!important;
+}  
+
+.accueil .accueil__carte__info.paragraphe--2, .ficheaccueil .accueil__carte__info.paragraphe--2 {
+    background: #BB1717;
+}
+
+.accueil .accueil__carte__info.paragraphe--2 .emploiDuTemps__lien, .ficheaccueil .accueil__carte__info.paragraphe--2 .emploiDuTemps__lien {
+    background: #BB1717;
+}
+
+.accueil .accueil__carte__info.widget li a:hover, .accueil .accueil__carte__info.widget li a:focus, .ficheaccueil .accueil__carte__info.widget li a:hover, .ficheaccueil .accueil__carte__info.widget li a:focus {
+    background: #ae1515;
+}
+
+ul.objets.notification li .vignette_deco .icon, ul.notification#liste_resultats li .vignette_deco .icon {
+    color: #BB1717;
+}
+
+a:hover {
+    color: #FA1E1E!important;
+}
+.a:hover {
+    color: #FA1E1E!important;
+}
+
+nav {
+    background: #BB1717;
+}
+  
+.fiche {
+background: #BB1717!important;
+}
+  
+.recherche {
+    background: #BB1717!important;
+}
+    
+
+.sidebar-navigation .item .sidebar-lien {
+    color: white;
+}
+.sidebar-navigation .sidebar-lien {
+    color: white!important;
+}
+
+.sidebar-navigation .item:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.sidebar-navigation .item:hover a {
+    color: black;
+}
+
+.sidebar-navigation .sous-item .item a:hover {
+    color:white!important;
+}
+
+#body .ui-dialog .ui-widget-header {
+    background: #BB1717;
+}
+  
+.choix_session__affichage {
+    background: #BB1717;
+}
+  
+  
