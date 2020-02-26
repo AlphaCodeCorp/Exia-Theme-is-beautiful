@@ -1,12 +1,12 @@
-# Contibution
+# Contribution
 Un premier code a été mis en place : <https://github.com/Sacrezar/Exia-Theme-is-beautiful/tree/dev_ent>
 
 NB: L'addon n'est pas encore compatible avec Chrome (certaines couleurs seront présentes mais pas toutes)
 
 Pour pouvoir le tester, il suffit de :
+* Télécharger le zip de la branche dev_ent.
 
-    Télécharger le zip de la branche dev_ent.
-    Le décompresser
+* Le décompresser
 
 ## 1. Firefox :
 
