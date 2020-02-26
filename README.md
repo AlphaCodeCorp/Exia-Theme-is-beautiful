@@ -39,6 +39,7 @@ Pour les versions disponibles, visitez [cette page](https://github.com/Sacrezar/
 * **Louis** - *Créateur du code JS* - [Louis27140](https://github.com/Louis27140)
 * **Pierre** - *L'homme qui murmure à l'oreille des logos* - [Dronai]()
 * **Youssef** - *Fan de Gundam* - [IamClearlyJoking](https://github.com/IamClearlyJoking)
+* **Antoine** - *Bob Ross* - [Antoine]()
 
 Passez jeter un coup d'oeil à tous les [contributeurs](https://github.com/Sacrezar/Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu/contributors) qui on participé au projet.
 
