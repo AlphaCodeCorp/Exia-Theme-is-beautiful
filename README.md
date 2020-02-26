@@ -37,7 +37,7 @@ Pour les versions disponibles, visitez [cette page](https://github.com/Sacrezar/
 * **Thomas** - *Grand maître du repo* - [Sacrezar](https://github.com/Sacrezar)
 * **Romain** - *Pour la version firefox et le magnifique CSS* - [Lainkulte](https://github.com/RomainDugarin)
 * **Louis** - *Créateur du code JS* - [Louis27140](https://github.com/Louis27140)
-* **Pierre** - *L'homme qui murmure à l'oreille des logos* - [Dronai]()
+* **Pierre** - *L'homme qui murmure à l'oreille des logos* - [Dronai](https://github.com/Dronai)
 * **Youssef** - *Fan de Gundam* - [IamClearlyJoking](https://github.com/IamClearlyJoking)
 * **Antoine** - *Bob Ross* - [Antoine]()
 
