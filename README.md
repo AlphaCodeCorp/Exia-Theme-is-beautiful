@@ -3,6 +3,7 @@
 
 
 >Thème Exia Moodle non officiel maintenu par des Exars 👌
+
 Le thème concernait d'abord le site moodle. La version 5.0 devrait accueillir l'ent. 
 
 ## Révision
@@ -11,7 +12,7 @@ Le thème concernait d'abord le site moodle. La version 5.0 devrait accueillir l
   <tr>
     <td width="50"><img width="50" src="https://www.mozilla.org/media/protocol/img/logos/firefox/firefox.3a7f6cda231d.png" alt="Firefox"></td>
     <td>
-    <a href="https://addons.mozilla.org/fr/firefox/addon/exia-theme-is-beautiful/">Version : 4.0</a>
+    <a href="https://addons.mozilla.org/fr/firefox/addon/exia-theme-is-beautiful/">Version : 4.1.1</a>
     </td>
   </tr>
   <tr>
@@ -34,10 +35,11 @@ Pour les versions disponibles, visitez [cette page](https://github.com/Sacrezar/
 ## Auteurs
 
 * **Thomas** - *Grand maître du repo* - [Sacrezar](https://github.com/Sacrezar)
-* **Romain** - *Pour la version firefox et le magnifique CSS* - [Lainkulte](https://github.com/Lainkulte)
-* **Louis** - *Créateur du code JS* - []()
-* **Pierre** - *L'homme qui murmure à l'oreille des logos* - [Dronai]()
+* **Romain** - *Pour la version firefox et le magnifique CSS* - [Lainkulte](https://github.com/RomainDugarin)
+* **Louis** - *Créateur du code JS* - [Louis27140](https://github.com/Louis27140)
+* **Pierre** - *L'homme qui murmure à l'oreille des logos* - [Dronai](https://github.com/Dronai)
 * **Youssef** - *Fan de Gundam* - [IamClearlyJoking](https://github.com/IamClearlyJoking)
+* **Antoine** - *Bob Ross* - [Antoine](https://github.com/AntoineSlr)
 
 Passez jeter un coup d'oeil à tous les [contributeurs](https://github.com/Sacrezar/Projecto-GF13-009NF-MOODLE-Mark-IV-Ros-ReXia-Cesi-Edition-Ultracompacto-WebSite-4.12-GEN-Aka-Aurelu/contributors) qui on participé au projet.
 
