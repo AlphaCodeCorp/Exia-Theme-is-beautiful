@@ -12,7 +12,7 @@ Le thème concernait d'abord le site moodle. La version 5.0 devrait accueillir l
   <tr>
     <td width="50"><img width="50" src="https://www.mozilla.org/media/protocol/img/logos/firefox/firefox.3a7f6cda231d.png" alt="Firefox"></td>
     <td>
-    <a href="https://addons.mozilla.org/fr/firefox/addon/exia-theme-is-beautiful/">Version : 4.0</a>
+    <a href="https://addons.mozilla.org/fr/firefox/addon/exia-theme-is-beautiful/">Version : 4.1.1</a>
     </td>
   </tr>
   <tr>
