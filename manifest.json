@@ -7,8 +7,8 @@
   
   "content_scripts": 
   [{
-    "css": ["Firefox/moodle/css/global-style.css"],
-    "js": ["Firefox/moodle/js/content.js"],
+    "css": ["Firefox/css/moodle-global.css"],
+    "js": ["Firefox/js/moodle-content.js", "loader.js"],
     "matches": 
     [
       "https://moodle-ingenieurs.cesi.fr/*",
@@ -16,8 +16,8 @@
     ]
   },
   {
-    "css":["Firefox/ent/css/global-style.css"],
-    "js": ["Firefox/ent/js/content.js"],
+    "css":["Firefox/css/ent-global.css"],
+    "js": ["loader.js"],
     "matches": 
     [
       "https://wayf.cesi.fr/*",
