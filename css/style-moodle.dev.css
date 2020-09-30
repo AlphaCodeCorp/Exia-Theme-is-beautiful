@@ -167,3 +167,7 @@ a:active {
 .breadcrumb-item > a:hover {
     color : #6c757d!important;
 }
+
+footer {
+    background-color: #343a40!important;
+}
