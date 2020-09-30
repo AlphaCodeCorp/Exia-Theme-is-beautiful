@@ -1,4 +1,4 @@
-p > a:link {
+p > a:link, h3 > a {
     color: #C41818 !important;
 }
 
