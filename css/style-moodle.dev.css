@@ -1,4 +1,4 @@
-a {
+p > a:link {
     color: #C41818 !important;
 }
 
@@ -23,10 +23,10 @@ a {
 }
 
 /* Buttons */
-.path-admin .buttons input[type=submit], button, input#id_submitbutton, input#id_submitbutton2, input.form-submit, input[type=submit], input[type=button], input[type=reset], td.submit input {
+/* .path-admin .buttons input[type=submit], button, input#id_submitbutton, input#id_submitbutton2, input.form-submit, input[type=submit], input[type=button], input[type=reset], td.submit input {
     background-color: #ae1515 !important;
     border: 1px solid #ae1515 !important;
-}
+} */
 
 /* images displayer */
 .flexslider .flex-control-paging li a.flex-active {
@@ -98,14 +98,20 @@ a:active {
 }
 
 /* button dashboard  */
+
+#page .dropdown-item.active, #page .dropdown-item:active {
+    background-color: #6c757d;
+}
+
+.dropdown-item:hover {
+    color :#C41818 !important;
+}
+
 .btn-default.active {
     background: #C41818 !important;
     color: white !important;
 }
 
-.btn-secondary, .btn-outline-secondary {
-    color: #efefef !important;
-}
 
 .btn-default, a.btn-default .btn-default.active, .btn-default:active .open > .dropdown-toggle.btn-default {
     border-color: #C41818 !important;
@@ -152,4 +158,12 @@ a:active {
 
 .qn_buttons a {
     color: grey !important;
+}
+
+.page-context-header, .breadcrumb {
+    background: #7B0F0F!important;
+}
+
+.breadcrumb-item > a:hover {
+    color : #6c757d!important;
 }
