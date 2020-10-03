@@ -7,7 +7,7 @@
   
   "content_scripts": 
   [{
-    "css": ["css/style-moodle.css"],
+    "css": ["css/style-moodle-ingenieur.dev.css"],
     "js": ["js/content-moodle.js"],
     "matches": 
     [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "css":["css/style-ent.css"],
+    "css":["css/style-ent.dev.css"],
     "js": ["js/content-ent.js"],
     "matches": 
     [

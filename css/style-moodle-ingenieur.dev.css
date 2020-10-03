@@ -1,6 +1,24 @@
-p > a:link, h3 > a {
+/* Link */
+p > a:link, h3 > a, 
+p > span > a:link, .mt-3 > a, 
+.gotocal > a:link, 
+.activityhead > a:link:hover, 
+.card-text > div > a:link, 
+.card-body a:link,
+.card-body a > span {
     color: #C41818 !important;
 }
+
+p > a:link:hover, h3 > a, 
+p > span > a:link:hover, 
+.mt-3 > a:link:hover, 
+.gotocal > a:link:hover, 
+activityhead > a:link:hover, 
+.card-text > div > a:link:hover,
+.card-body a:link:hover {
+    color: #f03333 !important;
+}
+
 
 .login a {
     color: rgba(255, 255, 255, .8)!important;
@@ -21,12 +39,6 @@ p > a:link, h3 > a {
 #page #region-main .coursebox {
     border-left: 2px solid #ae1515 !important;
 }
-
-/* Buttons */
-/* .path-admin .buttons input[type=submit], button, input#id_submitbutton, input#id_submitbutton2, input.form-submit, input[type=submit], input[type=button], input[type=reset], td.submit input {
-    background-color: #ae1515 !important;
-    border: 1px solid #ae1515 !important;
-} */
 
 /* images displayer */
 .flexslider .flex-control-paging li a.flex-active {
