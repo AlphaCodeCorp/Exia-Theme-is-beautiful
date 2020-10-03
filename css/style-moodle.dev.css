@@ -32,6 +32,9 @@ p > span > a:link:hover,
     color: #f03333 !important;
 }
 
+.badge {
+    background-color: firebrick;
+}
 
 .login a {
     color: rgba(255, 255, 255, .8)!important;
