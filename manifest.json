@@ -7,7 +7,7 @@
   
   "content_scripts": 
   [{
-    "css": ["css/style-moodle-ingenieur.dev.css"],
+    "css": ["css/style-moodle.dev.css"],
     "js": ["js/content-moodle.js"],
     "matches": 
     [
