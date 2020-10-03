@@ -2,10 +2,16 @@
 p > a:link, h3 > a, 
 p > span > a:link, .mt-3 > a, 
 .gotocal > a:link, 
-.activityhead > a:link:hover, 
+.activityhead > a:link, 
 .card-text > div > a:link, 
 .card-body a:link,
-.card-body a > span {
+.card-body a > span,
+.breadcrumb-item > a,
+/* Moodle-examen */
+.aalink,
+.collapseexpand,
+.usertext,
+.fheader {
     color: #C41818 !important;
 }
 
@@ -13,9 +19,16 @@ p > a:link:hover, h3 > a,
 p > span > a:link:hover, 
 .mt-3 > a:link:hover, 
 .gotocal > a:link:hover, 
-activityhead > a:link:hover, 
+.activityhead > a:link:hover, 
 .card-text > div > a:link:hover,
-.card-body a:link:hover {
+.card-body a:link:hover,
+.card-body a > span:hover,
+.breadcrumb-item > a:hover,
+/* Moodle-examen */
+.aalink:hover,
+.collapseexpand:hover,
+.usertext:hover,
+.fheader:hover {
     color: #f03333 !important;
 }
 
@@ -99,15 +112,6 @@ div.branding > div.container-fluid > div.branding-inner *  {
     border-color: white !important;
 }
 
-/* a Hover */
-a:hover {
-    color: #FA1E1E !important;
-}
-
-/* a Active */
-a:active {
-    background-color: #FA1E1E !important;
-}
 
 /* button dashboard  */
 
@@ -172,13 +176,7 @@ a:active {
     color: grey !important;
 }
 
-.page-context-header, .breadcrumb {
-    background: #7B0F0F!important;
-}
 
-.breadcrumb-item > a:hover {
-    color : #6c757d!important;
-}
 
 footer {
     background-color: #343a40!important;
