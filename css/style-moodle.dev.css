@@ -32,6 +32,10 @@ p > span > a:link:hover,
     color: #f03333 !important;
 }
 
+.text-info {
+    color:black !important;
+}
+
 .badge {
     background-color: firebrick;
 }
