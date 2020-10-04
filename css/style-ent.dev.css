@@ -50,17 +50,7 @@ ul.objets.notification li .vignette_deco .icon, ul.notification#liste_resultats 
   }
   
 
-a:hover {
-    color: #FA1E1E!important;
-}
-.a:hover {
-    color: #FA1E1E!important;
-}
-
-a:active {
-    color: #FA1E1E!important;
-}
-.a:active {
+a:hover, a:focus, a:active {
     color: #FA1E1E!important;
 }
 
