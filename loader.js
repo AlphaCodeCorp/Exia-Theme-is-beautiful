@@ -27,3 +27,14 @@ var browser = function() {
         isBlink ? 'Blink' :
         "Don't know";
 };
+
+var load = function() {
+    console.log("1")
+    // var jsonObj = JSON.parse("./loader_config.json")
+    var jsonOb = JSON.parse(json)
+    console.log("yolo")
+    console.log(jsonObj)
+}
+
+load()
+console.log(browser())

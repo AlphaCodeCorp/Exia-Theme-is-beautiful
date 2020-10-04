@@ -1,0 +1,30 @@
+{
+    "env":"dev",
+
+    "matches": [
+
+        {
+            "link": [
+                "https://wayf.cesi.fr/*",
+                "https://sts.viacesi.fr/*",
+                "https://ent.cesi.fr/*"
+            ],
+            "toLoad": 
+            {
+                "css":["ent-global"]
+            }
+        },
+
+        {
+            "link": [
+                "https://moodle-ingenieurs.cesi.fr/*",
+                "https://moodle-examens.cesi.fr/*"
+            ],
+            "toLoad": 
+            {
+                "css":["moodle-global"],
+                "js":["moodle-content"]
+            }
+        }
+    ]
+}
