@@ -4,9 +4,12 @@
   "version": "4.1.1",
 
   "description": "Moodle Extension Exia Theme",
+
   
   "content_scripts": 
-  [{
+  [
+    {
+    "run_at":"document_start",
     "css": ["css/style-moodle.css"],
     "js": ["js/content-moodle.js"],
     "matches": 
@@ -16,7 +19,7 @@
     ]
   },
   {
-    "css":["css/style-ent.dev.css"],
+    "css":["css/style-ent.css"],
     "js": ["js/content-ent.js"],
     "matches": 
     [
