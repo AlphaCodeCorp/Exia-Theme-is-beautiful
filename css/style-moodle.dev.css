@@ -32,6 +32,15 @@ p > span > a:link:hover,
     color: #f03333 !important;
 }
 
+.usertext {
+    color:#353e4e!important;
+    font-family: "Roboto"!important;
+}
+.usertext:hover {
+    color: rgb(107, 107, 107)!important;
+}
+
+
 .text-info {
     color:black !important;
 }
@@ -123,7 +132,7 @@ div.branding > div.container-fluid > div.branding-inner *  {
 /* button dashboard  */
 
 #page .dropdown-item.active, #page .dropdown-item:active {
-    background-color: #6c757d;
+    background-color: whitesmoke;
 }
 
 .dropdown-item:hover {
