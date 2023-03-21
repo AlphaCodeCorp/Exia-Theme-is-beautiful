@@ -1,3 +1,11 @@
+li.results__list-item:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) {
+    background-color: #BB1717;
+}
+
+.submit {
+    background-color: #BB1717;
+}
+
 .cas__contenu h2 {
     color: #BB1717;
 }
